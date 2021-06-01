@@ -1,5 +1,5 @@
 ---
-title: 'DeMorgans Law'
+title: "DeMorgan's Law"
 unit: 3
 date: '6-1-2021'
 author: 'Anthony Vo'
